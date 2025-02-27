@@ -1,4 +1,4 @@
-# background_jobs
+# How to move the running jobs into background or add nohup to running jobs
 
 ## Introduction
 
